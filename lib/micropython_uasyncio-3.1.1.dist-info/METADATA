@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: micropython-uasyncio
+Version: 3.1.1
+Summary: Lightweight asyncio-like library for MicroPython, built around native Python coroutines.
+Home-page: https://github.com/pfalcon/micropython-lib
+Author: Paul Sokolovsky
+Author-email: micropython-lib@googlegroups.com
+License: MIT
+Requires-Dist: micropython-uasyncio.core
+

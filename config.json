@@ -1,0 +1,29 @@
+{
+    "wifi": [
+        {
+            "ssid": "", 
+            "status": 0, 
+            "password": ""
+        }
+    ], 
+    
+    "mqtt": [
+        {
+            "status": 0, 
+            "password": "", 
+            "client_id": "hopperhawk", 
+            "ip": "", 
+            "port": 1883, 
+            "user": "",
+        }
+    ], 
+    
+    "hopper": [
+        {
+            "full_measurement": 10, 
+            "current_pellets": "", 
+            "empty_measurement": 75, 
+            "poll_frequency": 300
+        }
+    ]
+}
